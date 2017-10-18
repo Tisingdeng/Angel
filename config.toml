@@ -2,3 +2,9 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme ="docdock"
+[[menu.main]]
+    name = "RULES"
+    pre = "<i class='fa fa-tags'></i>"
+    weight = -110
+    identifier = "rules"
+    url = "/page/rules"
