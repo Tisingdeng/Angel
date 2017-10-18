@@ -1,7 +1,6 @@
 +++
-title = "超级天使融资指南"
+title = "第1章"
 date = "2017-09-26"
-alwaysopen=true
 weight=1
 +++
 
