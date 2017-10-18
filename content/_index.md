@@ -1,5 +1,6 @@
 +++
 title = "投资班写书工具"
+alwaysopen=true
 date = "2017-09-26"
 +++
 
