@@ -67,3 +67,39 @@ Instead of a Starbucks on every other corner in a city, there will be a Cafe X m
 Instead of being open fourteen hours a day, these robots will serve us twenty-four hours a day.
 
 Cafe X and other startups will also eliminate millions of jobs in which humans get paid to stand behind a counter and repeat back your seven precious little instructions on how to prepare your morning libation, before pressing one button and masturbating a milk-frothing pitcher for two minutes.
+
+### The Future of Jobs—and Making Money
+
+If right now you think I’m a horrible, marauding, free-market monster, you’re only half-right—I’m also a humanist who thinks there are better things for our children to do with their time.
+
+The quicker we eliminate the low-paying, repetitive, and menial jobs, the quicker our species can get to work on bigger issues like sustainability, being multiplanetary, and perhaps retiring the last couple dozen dictators and despots who are murdering, raping, and otherwise oppressing the weakest among us.
+
+Of course, I could be wrong.
+
+When we eliminate all these jobs, the world might spin into a global version of the long-forgotten dry run Occupy Wall Street where a group of savvy but poorly organized hippies and millennials slammed their feet down and said, “No more! We’re not leaving until things change!”
+
+Until, of course, the economy rebounded and they got cool jobs with free food and their own private drivers from uberPOOL, then realized that, net-net, things are actually pretty fucking awesome and they don’t need to storm Michael Bloomberg’s town house or stink up the Goldman Sachs lobby anymore.
+
+In my mind, candidly, we’ve got a 70 percent chance of figuring out this massive sea change without starting a full-on revolution in the streets, like we saw in Greece or Egypt, or any other place where unemployment among young adults breaks 20 percent.
+
+But I don’t invest in this future because I want to sit in an ivory tower laughing at people whose jobs are replaced. I invest in this future because it’s inevitable and I think I can help accelerate the efforts of the founders and innovators who are missionaries, not mercenaries. Of course, I plan to make a great deal of money in these revolutions, but I also plan to look back proudly and know that I helped propel changes that made our planet better.
+
+### Escaping the Matrix
+
+If you’re reading this, congratulations! You chose the red pill and you’ve taken your first step to understanding the bitter truth: the world is going to get flipped on its head two or three more times in your lifetime.
+
+The jobpocalypse is coming, which is not just based on my coffee-making robots. It also includes the elimination of most white-collar jobs we were told were careers, like being a lawyer, doctor, teacher, accountant, pilot, journalist, or—wait for it—a software engineer.
+
+Yes, while the greatest opportunity on the planet today is probably being a software engineer, I just invested in a company that hopes to eliminate software engineers by letting you type into a box “make me an app that does X, Y, and Z,” before spitting out your own version of “Uber for . . . [insert service that sucks right now].”
+
+If you haven’t had a panic attack reading this introduction yet, let me tell you the next product I’m looking to back: an artificially intelligent robot that studies humans and builds other robots.
+
+I haven’t found it yet, but I probably will by the time you reach the end of this book. The snake is going to eat its tail.
+
+When that happens, there is a good chance that it will be every human for themselves.
+
+By the way, a lot of rich folks have already planned for this outcome by buying islands or huge ranches in remote places like Wyoming or New Zealand (I’m not kidding) that are fully off the grid—complete with solar, water desalination, fortifications, and weapons.
+
+Yeah, there are billionaire preppers, not just hillbilly ones.
+
+A perfect storm of black swans is coming and this book is going to prepare you not only to survive it—but to ride it out on top.
