@@ -1,6 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "投资班出书工具"
 theme ="docdock"
-[params]
-themeVariant = "gray"
