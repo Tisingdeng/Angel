@@ -1,6 +1,6 @@
 +++
 title = "第一周周报"
-description = "10月16～22"
+description = "10月12～29"
 date = "2017-10-25"
 weight=1
 +++
