@@ -2,7 +2,7 @@
 title = "超级天使融资指南"
 date = "2017-10-1"
 alwaysopen=true
-weight=5
+weight=1
 +++
 
 ### 我们要写书！！！

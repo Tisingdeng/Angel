@@ -1,7 +1,6 @@
 +++
 title = "周报"
 date = "2017-10-1"
-alwaysopen=true
 weight=5
 +++
 
